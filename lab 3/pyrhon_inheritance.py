@@ -20,3 +20,14 @@ class Student(Person):
 x = Student("Mike")
 x.printname()
 
+
+
+
+#1
+car ={
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(car.get("model"))
+
